@@ -1,16 +1,3 @@
-# forecast_app
+# Forecast_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+WeatherSnap Pro, a versatile Flutter app that effortlessly detects and delivers real-time weather updates for cities worldwide using the OpenWeather API. Accessible on both iOS and Android devices, as well as through a web application, provides comprehensive weather information, including temperature, pressure, humidity, and wind speed.
